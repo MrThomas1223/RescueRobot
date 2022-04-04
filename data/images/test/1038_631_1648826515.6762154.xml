@@ -1,0 +1,26 @@
+<annotation>
+	<folder>p</folder>
+	<filename>1038_631_1648826515.6762154.png</filename>
+	<path>C:\Users\joshu\Desktop\haarCascade_PingPong\p\1038_631_1648826515.6762154.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PingPongBall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>24</ymin>
+			<xmax>145</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>
